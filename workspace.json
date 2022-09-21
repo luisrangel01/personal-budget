@@ -2,6 +2,8 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
-    "personal-budget-backend": "apps/personal-budget-backend"
+    "personal-budget-backend": "apps/personal-budget-backend",
+    "personal-budget-frontend": "apps/personal-budget-frontend",
+    "personal-budget-frontend-e2e": "apps/personal-budget-frontend-e2e"
   }
 }
